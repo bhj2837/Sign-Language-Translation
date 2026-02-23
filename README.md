@@ -1,4 +1,4 @@
-##COSE471 Data Science
+## COSE471 Data Science
 
 ## 📁 프로젝트 구성 파일 설명
 
